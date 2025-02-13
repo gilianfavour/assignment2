@@ -99,6 +99,7 @@ immutableExample = immutableExample + " World";  // Creating a new string instea
 console.log(immutableExample);  // "Hello World"
 
 
+
 // Part B
 // Write a JavaScript function that takes a parameter and returns its data type using the typeof operator. 
 
@@ -116,6 +117,7 @@ console.log(typeof nullVal);
 let undefinedVal;
 console.log(typeof undefinedVal);
  
+//  emptystring
 let emptyString ="";
 console.log(typeof emptyString);
 
